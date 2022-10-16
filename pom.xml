@@ -96,13 +96,13 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>roland</name>
+	      <name>admin</name>
 	      <url>http://34.239.104.94:8081/repository/new-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>roland</name>
+	      <name>admin</name>
 	      <url>http://34.239.104.94:8081/repository/new-snapshot/</url>
 	    </snapshotRepository>
 	    
