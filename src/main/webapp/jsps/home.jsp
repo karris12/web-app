@@ -35,10 +35,10 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	<span style="font-weight: bold;">
                 Acada Learning, 
 		Calgary, Alberta, Canada
-		+1 587 574 2233,
+		+1 403 878 9485,
 		info@acadalearning.com
 		<br>
-		<a href="mailto:info@acadalearning">Mail to Acada Learning</a>
+		<a href="mailto:agodzzo@gmail.com">Mail to Acada Learning</a>
 	</span>
 </div>
 <hr>
